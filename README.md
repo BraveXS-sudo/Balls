@@ -30,7 +30,7 @@ sudo ./install.sh
 This will be now aliased as balls and you can now also open it from desktop too
 
 One-Liner for install:
-git clone https://github.com/BraveXS-sudo/Balls && sleep 1 && cd balls && cd balls && chmod +x ./install.sh && sleep 1 && sudo ./install.sh
+git clone https://github.com/BraveXS-sudo/Balls && sleep 1 && cd balls && chmod +x ./install.sh && sleep 1 && sudo ./install.sh
 
 Dependecies
 cmake
