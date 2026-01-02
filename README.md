@@ -39,5 +39,7 @@ make
 raylib
 gcc
 
+Made in C
+
 Please open an issue to request a feature!
 Click edit to change thumbnail of a game/app click launch to launch the app
