@@ -23,7 +23,8 @@ Clone Repository
 git clone https://github.com/BraveXS-sudo/Balls
 
 Enter Folder
-cd balls
+cd Balls
+after cd balls
 
 Run Installer (may require you to make it executable use chmod +x ./install.sh)
 sudo ./install.sh
