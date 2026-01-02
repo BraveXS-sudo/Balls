@@ -22,7 +22,7 @@ Installition:
 Clone Repository
 git clone https://github.com/BraveXS-sudo/Balls
 
-Enter Folder
+Enter Folder:
 cd Balls
 after cd balls
 
