@@ -38,6 +38,7 @@ cmake
 make
 raylib
 gcc
+zenity
 
 Made in C
 
