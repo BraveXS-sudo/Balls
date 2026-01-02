@@ -1,0 +1,3 @@
+/home/alex/balls/balls/build/CMakeFiles/balls.dir
+/home/alex/balls/balls/build/CMakeFiles/edit_cache.dir
+/home/alex/balls/balls/build/CMakeFiles/rebuild_cache.dir

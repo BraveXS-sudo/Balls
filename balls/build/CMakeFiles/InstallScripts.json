@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alex/balls/balls/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
