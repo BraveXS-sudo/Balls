@@ -37,3 +37,5 @@ cmake
 make
 raylib
 gcc
+
+Please open an issue to request a feature!
